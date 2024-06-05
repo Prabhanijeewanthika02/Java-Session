@@ -26,7 +26,7 @@ public class FirstJavaCode {
 }
 ```
 
-#### Explanation:
+#### Code Explanation:
 
 - **`public class FirstJavaCode {`**: Defines a class named `FirstJavaCode`. In Java, the filename must match the class name exactly.
 
