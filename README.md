@@ -1,10 +1,6 @@
 # Java-Session
-# Lesson 01 :
+Lesson 01 :
 # CAT Class in Java
-
-This simple Java program demonstrates the creation and use of a class named `CAT` with a single method `eat`. Here's an explanation of each part of the code:
-
-## Code Breakdown
 
 ### Class Definition
 
